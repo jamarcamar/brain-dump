@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"fba81ba921d69f9d","x":-1280,"y":98,"width":840,"height":942,"type":"file","file":"Git/Version Control with Git.md"},
+		{"id":"4c6871c449debe67","x":-280,"y":98,"width":618,"height":305,"type":"file","file":"Git/Commit Structure.png"}
+	],
+	"edges":[
+		{"id":"77d339e0d525b5e0","fromNode":"fba81ba921d69f9d","fromSide":"right","toNode":"4c6871c449debe67","toSide":"left"}
+	]
+}
