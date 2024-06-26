@@ -11,18 +11,79 @@
             "id": "fcc712aa51c0db75",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Version Control with Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89e924e335ba1d6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Categorical Data in Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "295e51c5ef902d81",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -718,
-                  "y": 430.5,
-                  "zoom": 0
+                  "x": -471,
+                  "y": 569,
+                  "zoom": -1.3881084800422108
                 }
               }
             }
+          },
+          {
+            "id": "384d7b5c7ab25690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Communication Concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ab9f8e5e3c32a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Importing data with Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "651b2ae456e46627",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git/Version Control with Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -88,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Git/Version Control with Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Git/Version Control with Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Git/Version Control with Git.md"
               }
             }
           }
@@ -149,11 +210,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcc712aa51c0db75",
+  "active": "651b2ae456e46627",
   "lastOpenFiles": [
-    "Git/Version Control with Git.md",
+    "Git/Merging report to main.png",
+    "Git/Commit structure.png",
+    "Pasted image 20240611150732.png",
+    "Pasted image 20240611150657.png",
+    "Importing data with Python.md",
+    "Data Communication Concepts.md",
+    "Introduction to Regression with statsmodels in Python.md",
+    "Pasted image 20240611150856.png",
+    "Pasted image 20240611150805.png",
+    "Pasted image 20240611150748.png",
+    "Pasted image 20240611150646.png",
     "Untitled.canvas",
-    "Git/Commit Structure.png",
+    "Untitled 1.canvas",
+    "Intermediate Data Visualization with Seaborn.md",
+    "Working Categorical Data in Python.md",
+    "Git/Version Control with Git.md",
     "Welcome.md",
     "Git"
   ]

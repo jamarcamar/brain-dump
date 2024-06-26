@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2bd7e3e186dcf49b","type":"text","text":"#### Reading a text file\n```\nfilename = 'huck_finn.txt'\nfile = open(filename, mode='r') # `r` is to read\ntext = file.read()\nfile.close()\n```","x":-1300,"y":-540,"width":500,"height":240},
+		{"id":"b5f3beb7f14b4eb0","type":"text","text":"#### Writing a text file\n```\nfilename = 'huck_finn.txt'\nfile = open(filename, mode='w') # `w` is to write\nfile.close()\n```","x":-760,"y":-540,"width":500,"height":240},
+		{"id":"fb67b244cad82040","x":-901,"y":-295,"width":250,"height":60,"type":"text","text":"#### Context manager with"}
+	],
+	"edges":[]
+}
